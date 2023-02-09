@@ -1,0 +1,6 @@
+print("The basic work done in Jupyter is below")
+print('The sum of 10 and 5 is: ',10+5)
+print('The difference between 10 and 5 is: ',10-5)
+print('The multiplication of 10 and 5 is: ',10*5)
+print('The division of 10 by 5 is: ',10/5)
+print('The modulus of 10 and 5 is: ',10%5)
